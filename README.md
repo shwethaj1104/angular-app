@@ -1,2 +1,1 @@
-# Base angular app
-lication
+# Base angular application
